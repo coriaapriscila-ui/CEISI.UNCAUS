@@ -111,7 +111,7 @@
         .social-bar a { color: #2d3e50; font-size: 2.8rem; transition: color 0.2s; text-decoration: none; display: flex; align-items: center; }
         .social-bar a:hover { color: #ffffff; }
 
-        /* === SECCIÓN DE ENLACE / BOTÓN === */
+        /* === SECCIÓN DE ENLACE / BOTÓN (Reemplazo del calendario) === */
         .seccion-enlace {
             background: #fff;
             border-radius: 30px;
@@ -272,12 +272,12 @@
 
     <header>
         <div class="logo">
-            <img src="tu-logo.png" alt="Logo CEISI">
+            <img src="CEISI logo Fondo Original-fotor-20250823224414.png" alt="Logo CEISI">
             <span>CEISI</span>
         </div>
     </header>
 
-    <!-- Sección de enlace directo (Reemplazo del calendario) -->
+    <!-- NUEVA SECCIÓN DE ACCESO DIRECTO (ENLACE) -->
     <section class="seccion-enlace">
         <h2>Acceso Directo</h2>
         <p>Haz clic en el siguiente botón para acceder al recurso o sitio correspondiente.</p>
